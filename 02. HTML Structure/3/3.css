@@ -1,0 +1,17 @@
+/*
+⦁	padding: 15px, 5px 15px
+⦁	background colors: #f9f7cf, #f2dcbb
+⦁	width: 480px
+*/
+section{
+    width: 480px;
+    padding: 15px, 5px 15px;
+    background-color: #f9f7cf;
+}
+main{
+    width: 480px;
+}
+footer, header{
+    padding: 15px, 5px 15px;
+    background-color: #f2dcbb;
+}
